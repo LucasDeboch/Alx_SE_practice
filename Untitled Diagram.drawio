@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-25T15:38:54.640Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="nhmv1nuiXIjdA_cqCcei" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-25T15:40:34.270Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="JLBlBsBeBjbfPq_leBXO" version="21.5.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="880" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1760" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -22,8 +22,20 @@
         <mxCell id="v07kzGLFyg5tG2AGZXde-4" value="Calculate squares&lt;br&gt;sqr1=num1*num1&lt;br&gt;sqr2=num2*num2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="390" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="v07kzGLFyg5tG2AGZXde-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="v07kzGLFyg5tG2AGZXde-6" target="v07kzGLFyg5tG2AGZXde-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="v07kzGLFyg5tG2AGZXde-6" value="Calculate sum&amp;nbsp;&lt;br&gt;sum=sqr1+sqr2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v07kzGLFyg5tG2AGZXde-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="v07kzGLFyg5tG2AGZXde-8" target="v07kzGLFyg5tG2AGZXde-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v07kzGLFyg5tG2AGZXde-8" value="Output" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v07kzGLFyg5tG2AGZXde-10" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="760" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
